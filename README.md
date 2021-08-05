@@ -1,2 +1,8 @@
 # Learning_Python
-열심히배우고잇어용
+Learning python since July 23, 2021
+<br><br>
+---
+
+<b>Study Material</b>  
+
+Think Python, 2nd Edition by Allen Downey  
