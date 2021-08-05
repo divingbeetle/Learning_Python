@@ -18,6 +18,12 @@ import os
 
 
 def find_paths_for(root_dir, suffix):
+    """Finds the name of all files w/ given suffix in root directory and its subdirectories.
+
+    :param root_dir: string name of directory
+    :param suffix: filename extension in string
+    :return: list of file name
+    """
     res = []
     for (roots, dir, files) in os.walk(root_dir):
         for file in files:
@@ -27,7 +33,9 @@ def find_paths_for(root_dir, suffix):
     return res
 
 
-def get_md5(filename):
+def get_md5(filename): # TODO: Using subprocess module to get the md5 hash
+    """ computes the MD5 checksum of the contents of a file
+    """
     if not os.path.isfile(filename):
         print("Error:", filename, "is not a file.")
         return
@@ -43,6 +51,10 @@ def get_md5(filename):
 
 
 def map_duplicates(checklist, func):
+    """map elements in the checklist with same return value for the function
+
+    :return: dictionary, {return value: [elemet1, elemen2 ...]}
+    """
     res = {}
     for item in checklist:
         check_value = func(item)
@@ -52,21 +64,19 @@ def map_duplicates(checklist, func):
 
 
 def print_duplicates(file_list):
-    gen = ((path.split("\\")[-1], path) for path in file_list)
+    duplicate_map = map_duplicates(file_list, get_md5)
+    for hash, duplicate_files in duplicate_map.items():
+        if len(duplicate_files) > 1:
+            print("These {0} files are duplicates".format(len(duplicate_files)))
 
-    print("These {0} files are duplicates".format(len(file_list)))
-
-    for (filename, path) in gen:
-        print("Filename: {0} in {1}".format(filename, path))
+            gen = ((path.split("\\")[-1], path) for path in duplicate_files)
+            for (filename, path) in gen:
+                print("Filename: {0} in {1}".format(filename, path))
 
 
 def main():
     mp3_list = (find_paths_for(os.getcwd(), 'mp3'))
-    duplicate_files = map_duplicates(mp3_list, get_md5)
-
-    for key, value in duplicate_files.items():
-        if len(value) > 1:
-            print_duplicates(value)
+    print_duplicates(mp3_list)
 
 
 if __name__ == "__main__":
