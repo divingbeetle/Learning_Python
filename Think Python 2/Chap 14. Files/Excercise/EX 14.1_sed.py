@@ -16,31 +16,31 @@
 
 def sed(file_name1, file_name2, pattern_str, replace_str):
     try:
-        fin1 = open(file_name1)
+        fin = open(file_name1)
     except:
         print("Error")
         return
 
     try:
-        fin2 = open(file_name2, 'w', encoding='UTF-8')
+        fout = open(file_name2, 'w', encoding='UTF-8')
     except:
         print("Error")
         return
 
-    for line in fin1.readlines():
+    for line in fin.readlines():
         try:
-            fin2.write(line.replace(pattern_str, replace_str))
+            fout.write(line.replace(pattern_str, replace_str))
         except:
             print("Error")
             return
 
     try:
-        fin1.close()
+        fin.close()
     except:
         print("Error")
         return
     try:
-        fin2.close()
+        fout.close()
     except:
         print("Error")
         return
