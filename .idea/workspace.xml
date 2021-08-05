@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="Minor revisions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/asdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test/20210806.txt" afterDir="false" />
-    </list>
+    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +127,7 @@
       <workItem from="1628165711877" duration="1386000" />
       <workItem from="1628168122439" duration="1041000" />
       <workItem from="1628169222052" duration="13419000" />
-      <workItem from="1628190858143" duration="2212000" />
+      <workItem from="1628190858143" duration="2511000" />
     </task>
     <task id="LOCAL-00001" summary="일기를 썼어용">
       <created>1628169403894</created>
@@ -189,7 +185,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628192204171</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Minor revisions">
+      <created>1628193231789</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628193231789</updated>
+    </task>
+    <task id="LOCAL-00010" summary="?">
+      <created>1628193333384</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628193333385</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,7 +237,8 @@
     <MESSAGE value="Finally figured out what 'fin' and 'fout' mean" />
     <MESSAGE value="Solved Ex 14.3" />
     <MESSAGE value="Minor revisions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor revisions" />
+    <MESSAGE value="?" />
+    <option name="LAST_COMMIT_MESSAGE" value="?" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

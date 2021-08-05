@@ -47,7 +47,8 @@ def sed(file_name1, file_name2, pattern_str, replace_str):
 
 
 def main():
-    sed("99 bottles of beer.txt", "99 bottles of orange juice.txt", "beer", "orange juice")
+    sed("99 bottles of beer.txt",
+        "../../../Think Python/Ch 14. Files/99 bottles of orange juice.txt", "beer", "orange juice")
 
 
 if __name__ == "__main__":
