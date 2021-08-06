@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="?" />
+    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="workspace arrangements">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Think Python/Ch 14. Files/Study/Files.Study.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Think Python/Ch 14. Files/Study/Files.Study.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -51,15 +56,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\이승민\Documents\Learning_Python\Think Python\Ch 14. Files\Study" />
+      <recent name="C:\Users\이승민\Documents\Learning_Python\Think Python\Ch 14. Files\Excercise" />
+      <recent name="C:\Users\이승민\Documents\Learning_Python\Think Python\Ch 14. Files" />
+      <recent name="C:\Users\이승민\Documents\Learning_Python\Think Python" />
       <recent name="C:\Users\이승민\Documents\Learning_Python\Think Python 2\Chap 14. Files\Excercise" />
-      <recent name="C:\Users\이승민\Documents\Learning_Python\Think Python 2\Chap 14. Files\Study" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.EX 14.3">
+  <component name="RunManager" selected="Python.EX 14.3_duplicate files">
     <configuration name="EX 14.2 anagram shelf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX 14.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EX 14.3_duplicate files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +103,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise/EX 14.3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\이승민\Documents\Learning_Python\Think Python\Ch 14. Files\Excercise\EX 14.3_duplicate files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.EX 14.3" />
+        <item itemvalue="Python.EX 14.3_duplicate files" />
         <item itemvalue="Python.EX 14.2 anagram shelf" />
       </list>
     </recent_temporary>
@@ -127,7 +135,7 @@
       <workItem from="1628165711877" duration="1386000" />
       <workItem from="1628168122439" duration="1041000" />
       <workItem from="1628169222052" duration="13419000" />
-      <workItem from="1628190858143" duration="2511000" />
+      <workItem from="1628190858143" duration="8792000" />
     </task>
     <task id="LOCAL-00001" summary="일기를 썼어용">
       <created>1628169403894</created>
@@ -199,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628193333385</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="workspace arrangements">
+      <created>1628193654648</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628193654649</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +253,8 @@
     <MESSAGE value="Solved Ex 14.3" />
     <MESSAGE value="Minor revisions" />
     <MESSAGE value="?" />
-    <option name="LAST_COMMIT_MESSAGE" value="?" />
+    <MESSAGE value="workspace arrangements" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace arrangements" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
