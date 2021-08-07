@@ -34,6 +34,11 @@ class Circle:
 
 
 def draw_rect(t, rect):
+    t.pu()
+    t.goto(rect.corner.x, rect.corner.y)
+    t.setheading(0)
+    t.pd()
+
     ts.polyline(t, 1, rect.width, 90)
     ts.polyline(t, 1, rect.height, 90)
     ts.polyline(t, 1, rect.width, 90)
@@ -41,6 +46,12 @@ def draw_rect(t, rect):
 
 
 def draw_circle(t, circle):
+    t.pu()
+    t.goto(circle.center.x, circle.center.y)
+    t.fd(circle.radius)
+    t.lt(90)
+    t.pd()
+
     ts.circle(t, circle.radius)
 
 
@@ -60,6 +71,6 @@ if __name__ == "__main__":
     awesome_circle.center.y = 100
     awesome_circle.radius = 75
 
-    # draw_rect(bob, box)
+    draw_rect(bob, box)
     draw_circle(bob, awesome_circle)
     turtle.mainloop()

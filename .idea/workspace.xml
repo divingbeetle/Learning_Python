@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="solved Ex 15.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="solved Ex 15.1" />
+    <list id="32e07835-0694-4542-a570-99b440be8565" name="a" comment="solved Ex 15.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,6 +189,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="" />
+      <changelist id="32e07835-0694-4542-a570-99b440be8565" name="a" comment="" />
       <created>1628161762725</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -204,7 +204,7 @@
       <workItem from="1628169222052" duration="13419000" />
       <workItem from="1628190858143" duration="9701000" />
       <workItem from="1628249382713" duration="8381000" />
-      <workItem from="1628348865117" duration="2391000" />
+      <workItem from="1628348865117" duration="2730000" />
     </task>
     <task id="LOCAL-00001" summary="일기를 썼어용">
       <created>1628169403894</created>
@@ -297,7 +297,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628254400992</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="solved Ex 15.1">
+      <created>1628351555201</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1628351555201</updated>
+    </task>
+    <task id="LOCAL-00015" summary="solved Ex 15.2">
+      <created>1628351600817</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1628351600817</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,7 +353,8 @@
     <MESSAGE value="workspace arrangements" />
     <MESSAGE value="Studied Chapter 15" />
     <MESSAGE value="solved Ex 15.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved Ex 15.1" />
+    <MESSAGE value="solved Ex 15.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved Ex 15.2" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -355,6 +370,6 @@
     <SUITE FILE_PATH="coverage/Learning_Python$EX_14_1.coverage" NAME="EX 14.1 Coverage Results" MODIFIED="1628182030496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$EX_3_1_Right_Justify.coverage" NAME="EX 3.1 Right Justify Coverage Results" MODIFIED="1628349794625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 3. Functions" />
     <SUITE FILE_PATH="coverage/Learning_Python$EX_14_3.coverage" NAME="EX 14.3 Coverage Results" MODIFIED="1628192096940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise" />
-    <SUITE FILE_PATH="coverage/Learning_Python$Ex_15_2_Turtle_and_shape.coverage" NAME="Ex 15.2_Turtle and shape Coverage Results" MODIFIED="1628351272412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Excercise" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Ex_15_2_Turtle_and_shape.coverage" NAME="Ex 15.2_Turtle and shape Coverage Results" MODIFIED="1628351382189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Excercise" />
   </component>
 </project>
