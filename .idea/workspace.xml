@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="solved Ex 15.1" />
-    <list id="32e07835-0694-4542-a570-99b440be8565" name="a" comment="solved Ex 15.2" />
+    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="Added Coordinate Feature">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Excercise/Ex 15.1_Rectangle and Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Think Python/Ch 15. Classes and Objects/Excercise/Ex 15.1_Rectangle and Circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Excercise/Ex 15.2_Turtle and shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Think Python/Ch 15. Classes and Objects/Excercise/Ex 15.2_Turtle and shape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Excercise/turtle_shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Think Python/Ch 15. Classes and Objects/Excercise/turtle_shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Study/.ipynb_checkpoints/Ch15. Study-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Think Python/Ch 15. Classes and Objects/Study/.ipynb_checkpoints/Ch15. Study-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Study/Ch15. Study.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Think Python/Ch 15. Classes and Objects/Study/Ch15. Study.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,51 +70,7 @@
       <recent name="C:\Users\이승민\Documents\Learning_Python\Think Python 2\Chap 14. Files\Excercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex 15.2_Turtle and shape">
-    <configuration name="EX 14.2 anagram shelf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise/EX 14.2 anagram shelf.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EX 14.3_duplicate files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\이승민\Documents\Learning_Python\Think Python\Ch 14. Files\Excercise\EX 14.3_duplicate files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Ex 16.1">
     <configuration name="EX 3.1 Right Justify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,13 +137,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Ex 16.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise/Ex 16.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="time1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise/time1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ex 16.1" />
+        <item itemvalue="Python.time1" />
         <item itemvalue="Python.Ex 15.2_Turtle and shape" />
         <item itemvalue="Python.EX 3.1 Right Justify" />
         <item itemvalue="Python.Ex 15.1_Rectangle and Circle" />
-        <item itemvalue="Python.EX 14.3_duplicate files" />
-        <item itemvalue="Python.EX 14.2 anagram shelf" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +195,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="" />
-      <changelist id="32e07835-0694-4542-a570-99b440be8565" name="a" comment="" />
+      <changelist id="" name="a" comment="" />
       <created>1628161762725</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -204,7 +210,7 @@
       <workItem from="1628169222052" duration="13419000" />
       <workItem from="1628190858143" duration="9701000" />
       <workItem from="1628249382713" duration="8381000" />
-      <workItem from="1628348865117" duration="2730000" />
+      <workItem from="1628348865117" duration="7215000" />
     </task>
     <task id="LOCAL-00001" summary="일기를 썼어용">
       <created>1628169403894</created>
@@ -311,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628351600817</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added Coordinate Feature">
+      <created>1628351831603</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1628351831603</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,7 +367,8 @@
     <MESSAGE value="Studied Chapter 15" />
     <MESSAGE value="solved Ex 15.1" />
     <MESSAGE value="solved Ex 15.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved Ex 15.2" />
+    <MESSAGE value="Added Coordinate Feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Coordinate Feature" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -370,6 +384,8 @@
     <SUITE FILE_PATH="coverage/Learning_Python$EX_14_1.coverage" NAME="EX 14.1 Coverage Results" MODIFIED="1628182030496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$EX_3_1_Right_Justify.coverage" NAME="EX 3.1 Right Justify Coverage Results" MODIFIED="1628349794625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 3. Functions" />
     <SUITE FILE_PATH="coverage/Learning_Python$EX_14_3.coverage" NAME="EX 14.3 Coverage Results" MODIFIED="1628192096940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise" />
-    <SUITE FILE_PATH="coverage/Learning_Python$Ex_15_2_Turtle_and_shape.coverage" NAME="Ex 15.2_Turtle and shape Coverage Results" MODIFIED="1628351382189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Excercise" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Ex_15_2_Turtle_and_shape.coverage" NAME="Ex 15.2_Turtle and shape Coverage Results" MODIFIED="1628351757758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Excercise" />
+    <SUITE FILE_PATH="coverage/Learning_Python$time1.coverage" NAME="time1 Coverage Results" MODIFIED="1628358462646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Ex_16_1.coverage" NAME="Ex 16.1 Coverage Results" MODIFIED="1628359048449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise" />
   </component>
 </project>
