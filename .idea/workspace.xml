@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="Studied and solved Ch 19&#10;End of the Book">
+    <list default="true" id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="good">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Py Algorythm/Ch 2/01. 유효한 팰린드롬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise/Ex 16.2_ Datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise/Ex 16.2_ Datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Think Python/Ch 17. Classes and Methods/Excercise/Kangaroo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Think Python/Ch 17. Classes and Methods/Excercise/Kangaroo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +68,8 @@
       <recent name="C:\Users\이승민\Documents\Learning_Python\Think Python 2\Chap 14. Files\Excercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01. 유효한 팰린드롬">
-    <configuration name="01. 유효한 팰린드롬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.scrapetest">
+    <configuration name="03. 로그 파일 재정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +82,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py Algorythm/Ch 2/01. 유효한 팰린드롬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py Algorythm/Ch 2/03. 로그 파일 재정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Cards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. 가장 흔한 단어" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Think Python/Ch 18. Inheritance/Excercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Py Algorythm/Ch 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Think Python/Ch 18. Inheritance/Excercise/Cards.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py Algorythm/Ch 2/04. 가장 흔한 단어.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex 18.2_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. 그룹 애너그램" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Think Python/Ch 18. Inheritance/Excercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Py Algorythm/Ch 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Think Python/Ch 18. Inheritance/Excercise/Ex 18.2_.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py Algorythm/Ch 2/05. 그룹 애너그램.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex 18.3_Pocker Hands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06. 가장 긴 팰린드롬 부분 문자열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Think Python/Ch 18. Inheritance/Excercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Py Algorythm/Ch 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\이승민\Documents\Learning_Python\Think Python\Ch 18. Inheritance\Excercise\Ex 18.3_Pocker Hands.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py Algorythm/Ch 2/06. 가장 긴 팰린드롬 부분 문자열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex 19.1_refactoring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scrapetest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,12 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Think Python/Ch 19. The Goodies/Excercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Think Python/Ch 19. The Goodies/Excercise/Ex 19.1_refactoring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapetest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01. 유효한 팰린드롬" />
-        <item itemvalue="Python.Ex 19.1_refactoring" />
-        <item itemvalue="Python.Ex 18.3_Pocker Hands" />
-        <item itemvalue="Python.Cards" />
-        <item itemvalue="Python.Ex 18.2_" />
+        <item itemvalue="Python.scrapetest" />
+        <item itemvalue="Python.06. 가장 긴 팰린드롬 부분 문자열" />
+        <item itemvalue="Python.03. 로그 파일 재정렬" />
+        <item itemvalue="Python.05. 그룹 애너그램" />
+        <item itemvalue="Python.04. 가장 흔한 단어" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +193,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="935906fc-b986-4af0-833e-60303786f493" name="Default Changelist" comment="" />
-      <changelist id="" name="a" comment="" />
       <created>1628161762725</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -205,7 +207,8 @@
       <workItem from="1628169222052" duration="13419000" />
       <workItem from="1628190858143" duration="9701000" />
       <workItem from="1628249382713" duration="8381000" />
-      <workItem from="1628348865117" duration="51373000" />
+      <workItem from="1628348865117" duration="64926000" />
+      <workItem from="1628446039137" duration="106000" />
     </task>
     <task id="LOCAL-00001" summary="일기를 썼어용">
       <created>1628169403894</created>
@@ -354,7 +357,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628420468361</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="good">
+      <created>1628424616271</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1628424616271</updated>
+    </task>
+    <task id="LOCAL-00023" summary="good">
+      <created>1628424624243</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1628424624243</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,7 +420,8 @@
     <MESSAGE value="Studied and solved Ch 17" />
     <MESSAGE value="Studied and solved Ch 18" />
     <MESSAGE value="Studied and solved Ch 19&#10;End of the Book" />
-    <option name="LAST_COMMIT_MESSAGE" value="Studied and solved Ch 19&#10;End of the Book" />
+    <MESSAGE value="good" />
+    <option name="LAST_COMMIT_MESSAGE" value="good" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -419,19 +437,23 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Python$EX_14_2_anagram_shelf.coverage" NAME="EX 14.2 anagram shelf Coverage Results" MODIFIED="1628184699859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_18_2_.coverage" NAME="Ex 18.2_ Coverage Results" MODIFIED="1628387777835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 18. Inheritance/Excercise" />
+    <SUITE FILE_PATH="coverage/Learning_Python$06______.coverage" NAME="06. 가장 긴 팰린드롬 부분 문자열 Coverage Results" MODIFIED="1628435838125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py Algorythm/Ch 2" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_15_1.coverage" NAME="Ex 15.1 Coverage Results" MODIFIED="1628254292722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$EX_14_1.coverage" NAME="EX 14.1 Coverage Results" MODIFIED="1628182030496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_18_3.coverage" NAME="Ex 18.3 Coverage Results" MODIFIED="1628412438547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 18. Inheritance/Excercise" />
+    <SUITE FILE_PATH="coverage/Learning_Python$05___.coverage" NAME="05. 그룹 애너그램 Coverage Results" MODIFIED="1628431302063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py Algorythm/Ch 2" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_17_1.coverage" NAME="Ex 17.1 Coverage Results" MODIFIED="1628379219235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 17. Classes and Methods/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$time1.coverage" NAME="time1 Coverage Results" MODIFIED="1628359213299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise" />
+    <SUITE FILE_PATH="coverage/Learning_Python$04____.coverage" NAME="04. 가장 흔한 단어 Coverage Results" MODIFIED="1628430601371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py Algorythm/Ch 2" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_16_2__Datetime__1_.coverage" NAME="Ex 16.2_ Datetime (1) Coverage Results" MODIFIED="1628370613267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_16_2.coverage" NAME="Ex 16.2 Coverage Results" MODIFIED="1628370178440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$Cards.coverage" NAME="Cards Coverage Results" MODIFIED="1628400185980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 18. Inheritance/Excercise" />
+    <SUITE FILE_PATH="coverage/Learning_Python$03____.coverage" NAME="03. 로그 파일 재정렬 Coverage Results" MODIFIED="1628433547391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py Algorythm/Ch 2" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_17_2.coverage" NAME="Ex 17.2 Coverage Results" MODIFIED="1628380994140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 17. Classes and Methods/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$EX_3_1_Right_Justify.coverage" NAME="EX 3.1 Right Justify Coverage Results" MODIFIED="1628349794625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 3. Functions" />
     <SUITE FILE_PATH="coverage/Learning_Python$EX_14_3.coverage" NAME="EX 14.3 Coverage Results" MODIFIED="1628192096940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python 2/Chap 14. Files/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_19_1_refactoring.coverage" NAME="Ex 19.1_refactoring Coverage Results" MODIFIED="1628420434654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 19. The Goodies/Excercise" />
-    <SUITE FILE_PATH="coverage/Learning_Python$01___.coverage" NAME="01. 유효한 팰린드롬 Coverage Results" MODIFIED="1628424568119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py Algorythm/Ch 2" />
+    <SUITE FILE_PATH="coverage/Learning_Python$01___.coverage" NAME="01. 유효한 팰린드롬 Coverage Results" MODIFIED="1628425517372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py Algorythm/Ch 2" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_15_2_Turtle_and_shape.coverage" NAME="Ex 15.2_Turtle and shape Coverage Results" MODIFIED="1628351757758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 15. Classess and Objects/Excercise" />
     <SUITE FILE_PATH="coverage/Learning_Python$Ex_16_1.coverage" NAME="Ex 16.1 Coverage Results" MODIFIED="1628359215683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Think Python/Ch 16. Classes and Function/Excercise" />
   </component>

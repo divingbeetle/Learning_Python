@@ -14,7 +14,7 @@
 
     Test your cod by creating two Kangaroo objects,
     assigning them to variable named kanga and roo
-    and the adding roo to the contents of kanga's pouch
+    and the adding roo to the contents of kanga'paragraph pouch
 
 """
 

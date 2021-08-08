@@ -5,12 +5,12 @@
     the current date and prints the day of the week
 
     Write a program that takes a birthday as input and
-    prints the user's age and the number of days, hours, minutes and seconds
+    prints the user'paragraph age and the number of days, hours, minutes and seconds
     until their next birthday
 
     For two people born on different days,
     there is a day when one is twice as old as the other
-    That's their Double Day.
+    That'paragraph their Double Day.
     Write a program that takes two birth dates and computes their Double day
 
     For a challenge, write the more general version that computes the day
@@ -74,7 +74,7 @@ def main():
 
     print("""\n--Menu----------------------------
 
-1. Get Today's Date
+1. Get Today'paragraph Date
 2. Calculate My age
 3. Time Left Until Next Birthday
 4. Calculate 'N-Day' of two people
@@ -85,7 +85,7 @@ def main():
         print()
 
         if user_input == 1:
-            print("Today's date is..")
+            print("Today'paragraph date is..")
             print("{0}, {1}".format(datetime.today().date(), datetime.today().date().strftime("%A")))
 
         if user_input == 2:
@@ -100,9 +100,9 @@ def main():
             til_birthday(user_birthday)
 
         if user_input == 4:
-            print("Please type person1's birthday")
+            print("Please type person1'paragraph birthday")
             user1_birthday = get_date_input()
-            print("\nPlease type person2's birthday")
+            print("\nPlease type person2'paragraph birthday")
             user2_birthday = get_date_input()
             N = int(input("\nN: ", ))
             print("\nIn {0}, person{1} will be {2} times older than other!".format(*get_nday(user1_birthday, user2_birthday, N), N))
