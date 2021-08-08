@@ -17,13 +17,7 @@
     when one person is n times older than the other
 """
 
-from datetime import date, timedelta, datetime, time
-
-
-def get_weekday():
-    day_list = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
-    today = datetime.today()
-    return datetime.today().date(), day_list[today.weekday()]
+from datetime import timedelta, datetime
 
 
 def get_age(birthday):
@@ -40,8 +34,7 @@ def get_date_input():
 
 
 def til_birthday(birthday):
-    this_birthday = datetime(datetime.today().year, birthday.month, birthday.day)
-
+    this_birthday = birthday.replace(year=datetime.today().year)
     diff = this_birthday - datetime.today()
 
     if diff > timedelta(days=0):
@@ -93,8 +86,7 @@ def main():
 
         if user_input == 1:
             print("Today's date is..")
-            print("{0}, {1}".format(*get_weekday()))
-            print()
+            print("{0}, {1}".format(datetime.today().date(), datetime.today().date().strftime("%A")))
 
         if user_input == 2:
             print("Please type your birthday")
